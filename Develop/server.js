@@ -22,7 +22,7 @@ app.get('/notes', (req, res) =>
 
 // Wildcard route to direct users to a notes page
 app.get('*', (req, res) => 
-    res.sendFile(path.join(__dirname, 'public/notes.html'))
+    res.sendFile(path.join(__dirname, 'public/index.html'))
 )
 
 app.listen(PORT, () =>
