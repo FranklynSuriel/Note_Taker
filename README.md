@@ -23,7 +23,13 @@ No installation needed. Just open it on a browser.
 
 Open the application and click on "Get Started". The application will load and then shows previous notes on the left column and an emtyp space to enter new notes. You can enter new note and a ssave button will appear at the top right to save your note. After saving your note it will be displayed on the left side. To watch your notes, just click in the note and it will show on the rigth side. to Enter a new note , click on the "+" sign . Last, if you want to delete a note just click on the  trash can logo.
 
-no link yet
+Deployed App link
+
+[https://thawing-everglades-51813.herokuapp.com/notes](https://thawing-everglades-51813.herokuapp.com/notes)
+
+![Note taker application](./Develop/public/assets/Pictures/Note_Taker.jpg)
+
+
 
 ## Credits
 

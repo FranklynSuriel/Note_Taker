@@ -5,7 +5,7 @@ const api = require('./routes/index')
 const { notes } = require('./db/db.json');
 
 // Helper method for generating unique ids
-const uuid = require('./helpers/uuid');
+const { v4: uuidv4 } = require('uuid');
 // Server port
 
 const PORT = process.env.PORT || 3001;
