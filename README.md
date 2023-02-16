@@ -25,7 +25,7 @@ Open the application and click on "Get Started". The application will load and t
 
 Deployed App link
 
-[https://thawing-everglades-51813.herokuapp.com/notes](https://thawing-everglades-51813.herokuapp.com/notes)
+[https://thawing-everglades-51813.herokuapp.com](https://thawing-everglades-51813.herokuapp.com)
 
 ![Note taker application](./public/assets/Pictures/Note_Taker.jpg)
 
