@@ -2,12 +2,11 @@
 const express = require('express');
 const path = require('path');
 const api = require('./routes/index')
-const { notes } = require('./db/db.json');
 
 // Helper method for generating unique ids
 const { v4: uuidv4 } = require('uuid');
-// Server port
 
+// Server port
 const PORT = process.env.PORT || 3001;
 
 const app = express();

@@ -27,13 +27,14 @@ Deployed App link
 
 [https://thawing-everglades-51813.herokuapp.com/notes](https://thawing-everglades-51813.herokuapp.com/notes)
 
-![Note taker application](./Develop/public/assets/Pictures/Note_Taker.jpg)
+![Note taker application](./public/assets/Pictures/Note_Taker.jpg)
 
 
 
 ## Credits
 
-Franklyn Rafael Suriel
+- Express JS Documentation
+- Stack Overflow
 
 ## License
 
@@ -45,7 +46,7 @@ No contribubutions guidelines.
 
 ## Test
 
-No test avaible.
+No test available.
 
 ## Questions
 
