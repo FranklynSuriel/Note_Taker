@@ -13,7 +13,7 @@ notes.get('/', (req, res) => {
 
 // Post route for a new Note
 notes.post('/', (req, res) => {
-    console.log(req.body);
+    
     // Destructuring assignment for the items in req.body   
     const { title, text } = req.body;
 
@@ -48,6 +48,7 @@ notes.delete('/:id', (req, res) => {
 
             // Save that array to the filesystem
             writeToFile('./db/db.json', result);
+            
             // Respond to the DELETE request
             res.json(`Item ${noteId} has been deleted`)
         });
